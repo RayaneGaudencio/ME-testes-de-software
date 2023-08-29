@@ -24,7 +24,7 @@ class CalculadoraSalarioAppTest {
     @DisplayName("Deveria retornar R$263,06")
     @Test
     void testeCalculoDescontoTerceiraFaixa() {
-        assertEquals(263.06, calcSalario.calcularINSS(2600), 0.01);
+        assertEquals(263.06, calcSalario.calcularINSS(3000), 0.01);
     }
 
     @DisplayName("Deveria retornar R$665,92")

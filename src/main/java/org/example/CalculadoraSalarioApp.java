@@ -2,7 +2,7 @@ package org.example;
 
 public class CalculadoraSalarioApp {
     final double SALARIO_PRIMEIRA_FAIXA = 1320;
-    final double SALARIO_SEGUNDA_FAIXA = 2751.29;
+    final double SALARIO_SEGUNDA_FAIXA = 2571.29;
     final double SALARIO_TERCEIRA_FAIXA = 3856.94;
     final double SALARIO_QUARTA_FAIXA = 7507.49;
 
